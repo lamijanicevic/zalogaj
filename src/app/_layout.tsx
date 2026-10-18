@@ -5,7 +5,7 @@ export default function RootLayout() {
   return (
     <Stack
       screenOptions={{
-        title: 'Zalogaj',
+        title: 'FitStart',
         headerStyle: { backgroundColor: colors.background },
         headerTitleStyle: { fontWeight: '700', color: colors.text },
         headerShadowVisible: false,
